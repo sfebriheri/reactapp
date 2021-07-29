@@ -1,0 +1,13 @@
+{
+  "entidades" : {
+    "categorias" : [
+      {
+        "hijos" : {
+          "0" : "Subcategoria",
+          "1" : "Otra Subcategoria"
+        },
+        "nombre" : "Categoria"
+      }]
+    
+  }
+}

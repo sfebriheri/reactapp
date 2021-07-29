@@ -1,0 +1,208 @@
+{
+  "Campuses" : [
+    {
+      "name" : "Binghamton",
+      "address" : "4400 Vestal Pkwy E, Binghamton, NY 13902, USA"
+    },
+    {
+      "name" : "Ithaca",
+      "address" : ""
+    },
+    {
+      "name" : "Albany",
+      "address" : ""
+    }
+  ],
+  "Properties" : {"items":
+    {
+      "Price per bedroom without utilities" : "540",
+      "Number of beds" : 0,
+      "Address" : "27 Main Street Binghamton NY 13905",
+      "Grass cutting" : "Available",
+      "Group matching info" : "No",
+      "Cleaning Services" : "No",
+      "Security camera" : "Available",
+      "Number of Floors" : 2,
+      "School Public Transportation Address" : "",
+      "Washer Dryer" : "Available",
+      "Status" : "Available",
+      "Security deposit" : "1080",
+      "Owner name" : "BingStudent",
+      "Floor" : 0,
+      "Available number of Bedrooms" : 10,
+      "Owner mobile" : "(646) 809-2669",
+      "Timestamp" : "2018-08-03T04:52:55.398Z",
+      "Campus Address" : "4400 Vestal Pkwy E, Binghamton, NY 13902, USA",
+      "Parking" : "Off street",
+      "Utilities" : "Not Included",
+      "Pets" : "Need permission",
+      "Wi-Fi" : "No",
+      "Campus" : "Binghamton",
+      "Downtown Address" : "67 Washington St, Binghamton, NY 13902, USA",
+      "Snow removal" : "Available",
+      "Total number of Bedrooms" : 10,
+      "Number of baths" : 5,
+      "Type" : "House",
+      "Free text description" : "27 Main is located in one of the best locations in downtown Binghanton.  Large house with 10 large bedrooms, 5 full baths, 2 large kitchen, large off-street parking.",
+      "Price per bedroom with utilities" : "600",
+      "Owner email" : "info@bingstudent.com", 
+      "photos": [{"photo":"https:\/\/drive.google.com\/open?id=1UneaGIIFebV44MrHYvgtctbNDR9gJ0Lo","name":"IMG"},
+      {"photo":"https:\/\/drive.google.com\/open?id=1x0hJerViDoKZ5ppEmMvvIu8N9EwA5nwQ","name":"IMG"},
+      {"photo":"https:\/\/drive.google.com\/open?id=1LSVsg38fog_oU7qZkPnaBBMC2rCIA5vs","name":"IMG"},
+      {"photo":"https:\/\/drive.google.com\/open?id=1nlyX0wy_bAnxqGWeuCRPofHaw8_4DzRE","name":"IMG"},
+      {"photo":"https:\/\/drive.google.com\/open?id=1vFk7VNIpchLJP9ZK7KqC48P7PujTpdGY","name":"IMG"}]
+    }
+  },
+  "Landlords" : { "1": 
+      {
+      "name" : "LANDLORD NAME",
+      "email" : "info@bingstudent.com",
+      "phone" : "(646) 809-2669"
+      }
+   },
+  "leads" : [
+    {
+      "Status" : "Requested a Call",
+      "Date" : "2018-07-31T08:26:41.671Z",
+      "Internal Status" : "Open",
+      "Phone Number" : "0549489805",
+      "Landlord" : 0,
+      "User" : 0,
+      "Email" : "",
+      "ID" : "mUK8CU-XUGr-NlE5meItsoCcjtXjjXgFQjPVPF6K6UZ7F4A5QM5_HLIsWxK7ebNyqlRVi8JElQLSi7ifdMIGyQ"
+    }
+  ],
+  "bookings" : {
+    "any" : {
+      "150" : {
+        "clubname" : "Daniel"
+      }
+    }
+  },
+  "clubs" : {
+    "belgrade" : {
+      "items" : [ {
+        "name" : "CLUB NAME",
+        "description" : "Best club in xxx",
+        "photos" : [ {
+          "name" : "IMG",
+          "photo" : "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/1496231235549.jpg?alt=media&token=ef4af4fc-03d7-48de-8d2a-b37193f2208d"
+        } ]
+      } ]
+    },
+    "skopje" : {
+      "items" : [ {
+        "description" : "Best club in xxx",
+        "name" : "CLUB NAME",
+        "photos" : [ {
+          "name" : "IMG",
+          "photo" : "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/1496231235549.jpg?alt=media&token=ef4af4fc-03d7-48de-8d2a-b37193f2208d"
+        } ]
+      } ]
+    },
+    "sofia" : {
+      "items" : [ {
+        "description" : "Best club in xxx",
+        "name" : "CLUB NAME",
+        "photos" : [ {
+          "name" : "IMG",
+          "photo" : "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/1496231235549.jpg?alt=media&token=ef4af4fc-03d7-48de-8d2a-b37193f2208d"
+        } ]
+      } ]
+    }
+  },
+  "static" : {
+    "cities" : {
+      "belgrade" : {
+        "clubs" : 11,
+        "displayName" : "Belgrade",
+        "photos" : {
+          "items" : [ "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fbelgrad.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f", "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fbelgrad1.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f" ]
+        }
+      },
+      "skopje" : {
+        "clubs" : 20,
+        "displayName" : "Skopje City",
+        "photos" : {
+          "items" : [ "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fskopje.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f", "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fskopje1.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f", "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fskopje2.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f" ]
+        }
+      },
+      "sofia" : {
+        "clubs" : 18,
+        "displayName" : "Sofia",
+        "photos" : {
+          "0" : "http://www.nightlife-cityguide.com/wp-content/uploads/2015/10/vita-notturna-Sofia-Chervilo-Club.jpg",
+          "items" : [ "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fsofia.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f", "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fsofia1.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f", "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/static%2Fsofia2.jpg?alt=media&token=fbdfaf59-4209-46d7-a671-0df894d3217f" ]
+        }
+      }
+    },
+    "genres" : {
+      "items" : [ {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/skipd-54427.appspot.com/o/rock.jpg?alt=media&token=fba6967d-4c12-4559-8396-db91bef8935f",
+        "name" : "type"
+      }]
+    }
+  },
+  "events":{
+    "belgrade" : {
+      "items" : {
+        "-event12341" : {
+          "booked" : 1,
+          "club" : {
+            "id" : "belgrade/items/1",
+            "name" : "Club name"
+          },
+          "description" : "EVENT DESCRIPTION",
+          "name" : "EVENT NAME",
+          "photo" : "https://slack-imgs.com/?c=1&url=https%3A%2F%2Fscontent-vie1-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F18740593_705189559665089_2262742478421546532_n.jpg%3Foh%3Dfddd11bb075096b839baf14209c1efc9%26oe%3D59AF4116",
+          "price" : 10,
+          "shared" : 0,
+          "start" : "06/07/2017 00:00 PM",
+          "total_spots" : 50,
+          "type" : "dance",
+          "views" : 0
+        }
+      }
+    },
+    "skopje" : {
+      "items" : {
+        "-event12341" : {
+          "name" : "EVENT NAME",
+          "photo" : "https://slack-imgs.com/?c=1&url=https%3A%2F%2Fscontent-vie1-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F18740593_705189559665089_2262742478421546532_n.jpg%3Foh%3Dfddd11bb075096b839baf14209c1efc9%26oe%3D59AF4116",
+          "booked" : 1,
+          "club" : {
+            "id" : "skopje/items/1",
+            "name" : "Club name"
+          },
+          "description" : "EVENT DESCRIPTION",
+          "price" : 10,
+          "shared" : 0,
+          "start" : "06/07/2017 00:00 PM",
+          "total_spots" : 50,
+          "type" : "dance",
+          "views" : 0
+        }
+      }
+    },
+    "sofia" : {
+      "items" : {
+        "-event12341" : {
+          "booked" : 1,
+          "club" : {
+            "id" : "sofia/items/1",
+            "name" : "Club name"
+          },
+          "description" : "EVENT DESCRIPTION",
+          "name" : "EVENT NAME",
+          "photo" : "https://slack-imgs.com/?c=1&url=https%3A%2F%2Fscontent-vie1-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F18740593_705189559665089_2262742478421546532_n.jpg%3Foh%3Dfddd11bb075096b839baf14209c1efc9%26oe%3D59AF4116",
+          "price" : 10,
+          "shared" : 0,
+          "start" : "06/07/2017 00:00 PM",
+          "total_spots" : 50,
+          "type" : "dance",
+          "views" : 0
+        }
+      }
+    }
+  }
+}
